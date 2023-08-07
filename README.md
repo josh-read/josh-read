@@ -1,11 +1,7 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-read&layout=compact)" align="right"/>](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 - 🔭 I’m researching fusion energy
-- 🌱 I’m currently learning Rust and PyO3
-- 🤔 I’m looking for help with Python packaging and CI with GitHub actions
-- 💬 Ask me about plasma diagnostics or Python metaprogramming
+- 🌱 I’m currently learning Rust with Yew and PyO3
 - 😄 Pronouns: he / him
 
 <!--
@@ -13,6 +9,8 @@
 
 Here are some ideas to get you started:
 
+- 🤔 I’m looking for help with Python packaging and CI with GitHub actions
+- 💬 Ask me about plasma diagnostics or Python metaprogramming
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
